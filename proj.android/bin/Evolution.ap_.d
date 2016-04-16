@@ -1,0 +1,21 @@
+E:\Evolution\proj.android\bin\Evolution.ap_ \
+ : E:\Evolution\proj.android\res\drawable-hdpi\icon.png \
+E:\Evolution\proj.android\res\drawable-ldpi\icon.png \
+E:\Evolution\proj.android\res\drawable-mdpi\icon.png \
+E:\Evolution\proj.android\res\values\strings.xml \
+E:\Evolution\proj.android\bin\res\drawable-hdpi\icon.png \
+E:\Evolution\proj.android\bin\res\drawable-ldpi\icon.png \
+E:\Evolution\proj.android\bin\res\drawable-mdpi\icon.png \
+E:\Evolution\proj.android\assets\res \
+E:\Evolution\proj.android\assets\res\a.jpg \
+E:\Evolution\proj.android\assets\res\a.plist \
+E:\Evolution\proj.android\assets\res\a.png \
+E:\Evolution\proj.android\assets\res\b.jpg \
+E:\Evolution\proj.android\assets\res\B.png \
+E:\Evolution\proj.android\assets\res\c.jpg \
+E:\Evolution\proj.android\assets\res\close.png \
+E:\Evolution\proj.android\assets\res\HelloWorld.png \
+E:\Evolution\proj.android\assets\res\MainScene.csb \
+E:\Evolution\proj.android\assets\res\play-normal.png \
+E:\Evolution\proj.android\assets\res\play-selected.png \
+E:\Evolution\proj.android\bin\AndroidManifest.xml \
